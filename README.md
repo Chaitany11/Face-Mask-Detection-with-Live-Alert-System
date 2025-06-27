@@ -32,6 +32,9 @@ FaceMaskDetection_with_alert_system/
 ├── with_mask/ # Images of people wearing masks
 └── without_mask/ # Images of people without masks
 
+Dataset download link:
+https://www.kaggle.com/datasets/shiekhburhan/face-mask-dataset
+
 # ✅ How to Use
 
 ### 1. Install required libraries
